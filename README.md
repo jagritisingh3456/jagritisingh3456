@@ -9,4 +9,4 @@ jagritisingh3456/jagritisingh3456 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<img loading="lazy" decoding="async" width="366" height="460" src="https://demo2.wpopal.com/gamico/wp-content/uploads/2023/12/h1_img-3.png" class="attachment-full size-full wp-image-872" alt="" srcset="https://demo2.wpopal.com/gamico/wp-content/uploads/2023/12/h1_img-3.png 566w, https://demo2.wpopal.com/gamico/wp-content/uploads/2023/12/h1_img-3-197x300.png 197w" sizes="(max-width: 566px) 100vw, 566px">
+<img width="240" height="360" src="https://camo.githubusercontent.com/97dace0413a314c53f364c50fedf0ae52966885822041ef2848398583e64a471/68747470733a2f2f64656d6f322e77706f70616c2e636f6d2f67616d69636f2f77702d636f6e74656e742f75706c6f6164732f323032332f31322f68315f696d672d332e706e67" alt="" data-canonical-src="https://demo2.wpopal.com/gamico/wp-content/uploads/2023/12/h1_img-3.png" style="max-width: 100%;">
