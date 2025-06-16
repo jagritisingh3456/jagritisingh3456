@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <p>- 👋 Hi, I’m Jagriti Singh </p>
+        <p>- 👋 Hi, I’m Neha Singh </p>
         <p> - 👀 I’m interested in Frontend Developer</p>
         <p>- 🌱 I’m currently learning React.js</p>
         <p> - 💞️ I’m looking to collaborate on ...</p>
